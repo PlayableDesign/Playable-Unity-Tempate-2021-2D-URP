@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6957a6ab13d77f540b85af4328fb8c68, type: 3}
+  m_Name: MountainCollectionSO
+  m_EditorClassIdentifier: 
+  EnableDebug: 1
+  Mountains:
+  - {fileID: 11400000, guid: eb3c7a55ee31eef43ace362adf4391a9, type: 2}
+  - {fileID: 11400000, guid: 706a9734642d4ac44bf981feb5ae860a, type: 2}
