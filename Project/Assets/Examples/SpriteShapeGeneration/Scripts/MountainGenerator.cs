@@ -111,7 +111,7 @@ public class MountainGenerator : MonoBehaviour
         _shape.BakeMesh();
         _shape.BakeCollider();
 
-        MountainGenerated.OnPublish?.Invoke();
+        MountainGenerated.Publish?.Invoke();
 
         yield return null;
     }

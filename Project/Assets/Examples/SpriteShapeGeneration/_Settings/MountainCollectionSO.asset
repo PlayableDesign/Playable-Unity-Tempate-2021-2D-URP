@@ -16,3 +16,4 @@ MonoBehaviour:
   Mountains:
   - {fileID: 11400000, guid: eb3c7a55ee31eef43ace362adf4391a9, type: 2}
   - {fileID: 11400000, guid: 706a9734642d4ac44bf981feb5ae860a, type: 2}
+  - {fileID: 11400000, guid: 97ba0cc410530b8409b3489dc0694d48, type: 2}
